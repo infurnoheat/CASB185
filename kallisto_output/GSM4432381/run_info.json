@@ -1,0 +1,13 @@
+{
+	"n_targets": 15032096,
+	"n_bootstraps": 100,
+	"n_processed": 15032096,
+	"n_pseudoaligned": 13629057,
+	"n_unique": 3360437,
+	"p_pseudoaligned": 90.7,
+	"p_unique": 22.4,
+	"kallisto_version": "0.48.0",
+	"index_version": 10,
+	"start_time": "Fri Feb 24 01:12:14 2023",
+	"call": "kallisto quant -i indeces/cov_1.idx -t 16 -o cov_1_output -b 100 --single -l 135 -s 20.2 SRR11412227/SRR11412227.fastq.gz SRR11412228/SRR11412228.fastq.gz SRR11412229/SRR11412229.fastq.gz SRR11412230/SRR11412230.fastq.gz"
+}

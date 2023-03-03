@@ -1,0 +1,6 @@
+
+	sample	condition	read	fragments
+1	GSM4432378	mock	single	4250893.25
+2	GSM4432379	mock	single	4077780.25 
+3	GSM4432381	COVID	single	3758024.0
+4	GSM4432382	COVID	single	3,777,022.5
