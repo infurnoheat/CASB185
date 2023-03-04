@@ -1,0 +1,13 @@
+{
+	"n_targets": 3814880,
+	"n_bootstraps": 100,
+	"n_processed": 3814880,
+	"n_pseudoaligned": 3445076,
+	"n_unique": 1005784,
+	"p_pseudoaligned": 90.3,
+	"p_unique": 26.4,
+	"kallisto_version": "0.48.0",
+	"index_version": 10,
+	"start_time": "Fri Mar  3 00:08:06 2023",
+	"call": "kallisto quant -i indeces/SRR11412233.idx -t 8 -o kallisto_data/SRR11412233 -b 100 --single -l 128 -s 22.2 SRR11412233/SRR11412233.fastq.gz"
+}
